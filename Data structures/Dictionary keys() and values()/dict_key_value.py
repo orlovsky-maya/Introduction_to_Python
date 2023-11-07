@@ -6,4 +6,4 @@ phone_book["Jill"] = 456
 
 print(phone_book.keys())
 
-print(???)
+print(phone_book.values())

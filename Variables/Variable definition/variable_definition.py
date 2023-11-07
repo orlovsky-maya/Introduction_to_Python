@@ -7,11 +7,11 @@ print("a = " + str(a))
 greetings = "greetings"
 print("greetings = " + str(greetings))
 # Reassign anything to the variable here
-greetings = # Assign a new value
+greetings = "Hello"
 print("greetings = " + str(greetings))
 
 
 # This is called a "chained assignment". It assigns the value 2 to variables "a" and "b".
-a # Assign 2 to both a and b here 2
+a ,b =2, 2
 print("a = " + str(a))
 print("b = " + str(b))

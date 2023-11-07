@@ -11,8 +11,10 @@ print(phone_book)
 del phone_book["John"]
 
 # Add Jared's number to the phone book
+phone_book['Jared'] = 570
 
 # Remove Gerard's number from the phone book
+del phone_book['Gerard']
 
 print(phone_book)
-print("Print Jane's phone number from the phone_book")
+print(phone_book['Jane'])

@@ -3,15 +3,15 @@ files:
   - name: nested_loop.py
     visible: true
     placeholders:
-      - offset: 61
-        length: 31
+      - offset: 97
+        length: 12
         placeholder_text: "# TODO: use a nested loop here."
         initial_state:
           length: 31
           offset: 61
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
         encrypted_possible_answer: V3V3n0HqAkWOIm6tp2L3eLAECl9btk5i5tXoCR+SikU=
     encrypted_text: beHdomPmC6H2y/k66mNLAk+Ddvxp55iAsQnSUH/gBUo/HodE7FX5yJos0a4EWcRgi5Kt/Vy8zDUNoJAjs/X/lKgC78jR5h8uflGd5RI/1q4X4R7OG/GMQLvr7SJvHwD/uzv5bkU39dX+daOqsWxOC5Gclb8RFM+kwfIDD0p4IhthL4ieJ+zpCgq33pHL5rFp
     learner_created: false
@@ -28,5 +28,8 @@ files:
     encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Loops+/+Nested+For+Loop
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 22 Sep 2023 09:53:37 UTC"
 record: -1
