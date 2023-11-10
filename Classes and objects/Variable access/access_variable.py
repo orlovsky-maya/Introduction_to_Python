@@ -14,5 +14,5 @@ my_object.variable2 = 3     # Assign a new value to variable2 in my_object
 print(my_object.variable2)
 print(another_object.variable2)
 
-print('Print variable1 from my_object')
-print('Call method foo() of object my_object')
+print(my_object.variable1)
+print(my_object.foo())

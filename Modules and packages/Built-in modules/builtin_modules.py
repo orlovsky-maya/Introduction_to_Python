@@ -2,4 +2,5 @@ import sys
 import datetime
 
 print(sys.path)
-print(???)
+print(datetime.datetime.now())
+
